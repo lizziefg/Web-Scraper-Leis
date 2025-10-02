@@ -1,4 +1,5 @@
 #Web-Scraper de Leis Brasileiras
+
 Este é um projeto desenvolvido para a disciplina de Linguagem de Programação II, com o objetivo de realizar a extração de dados (web scraping) do texto integral de leis hospedadas no portal do Planalto.
 
 A versão atual do projeto está configurada para extrair o conteúdo da Lei Geral de Proteção de Dados (LGPD) - LEI Nº 13.709, DE 14 DE AGOSTO DE 2018, salvando todos os seus artigos num arquivo de texto limpo.
